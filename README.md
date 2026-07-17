@@ -8,14 +8,17 @@ Apart from providing an online marketplace, the project also focuses on reducing
 ## 📸 Project Screenshots
 
 ### Home Page
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70223b1c-3961-42fc-99f0-656d172b43e9" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9a71fb9-45d5-432a-8d6d-f01874c363d5" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1719d870-41b9-443c-8504-fdb41bf93f72" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/257faf24-e835-4fb4-8e40-a257773df150" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e34627bf-88bc-4060-a159-653c2bc1cf9b" />
 
 
 ---
+### flower categories
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6c33094-aea5-4569-87c5-4fa05dac4eba" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcb36842-adb7-4f64-8d11-3d52cf2f146a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ee54fae-e944-480c-b4b4-f7af97e6529f" />
+
 
 ### Products
 
