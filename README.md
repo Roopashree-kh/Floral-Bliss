@@ -1,8 +1,10 @@
 # Floral Bliss
 
-Floral Bliss is a web-based flower commerce platform developed to simplify the process of buying and selling flowers while supporting sustainable flower waste management. The platform connects customers, farmers, florists, and vendors through a single system where flowers can be browsed, ordered, and managed efficiently.
+Floral Bliss is a digital B2B flower commerce platform designed to connect flower farmers, florists, vendors, and bulk buyers on a single marketplace.
 
-Apart from providing an online marketplace, the project also focuses on reducing floral waste by encouraging the collection and recycling of unused flowers after events into eco-friendly products such as compost, incense sticks, natural dyes, and organic fertilizers.
+The platform helps flower farmers sell their flowers at fair prices without relying entirely on middlemen. It supports different categories of flowers, including decorative flowers, fragrance flowers, and flowers used for religious and ceremonial purposes.
+
+Beyond commerce, Floral Bliss also promotes sustainability. After flowers have been used for events, temples, weddings, or decorations, users can contact us for proper collection and recycling instead of discarding them as waste. These flowers can then be repurposed into eco-friendly products such as incense sticks, organic compost, natural dyes, and other sustainable products, helping reduce flower waste and protect the environment.
 
 ---
 ## 📸 Project Screenshots
@@ -44,16 +46,13 @@ Apart from providing an online marketplace, the project also focuses on reducing
 
 ## Features
 
-- User registration and login
-- Browse flowers by category
-- Product search functionality
-- Shopping cart and order placement
-- Customer enquiry form
-- Admin dashboard
-- Product management
-- Order management
-- User management
-- Flower waste collection and recycling awareness
+-Connect flower farmers directly with buyers.
+-Ensure fair pricing for farmers.
+-Support bulk flower trading (B2B).
+-Provide a marketplace for florists and vendors.
+-Reduce dependence on intermediaries.
+-Promote responsible flower waste collection and recycling.
+-Encourage sustainable practices through the reuse of floral waste.
 
 ---
 
