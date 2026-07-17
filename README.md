@@ -35,7 +35,7 @@ Apart from providing an online marketplace, the project also focuses on reducing
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e87f4b21-67d5-48d0-a00c-486d5f05a207" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ad7a6e5-d839-47a0-92d3-faca676fccd4" />
 
-### Farmera prodile
+### Farmera profile
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80ce0a00-ce4e-4d67-9567-6b5e3193ad2d" />
 
 
